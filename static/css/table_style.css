@@ -1,0 +1,10 @@
+body {
+    font-family: 'Gill Sans', sans-serif
+    font-style: oblique 40deg;
+  }
+
+table {
+  width: 250%;
+  margin: 0 auto;
+  /* margin-left: -2px; */
+}
